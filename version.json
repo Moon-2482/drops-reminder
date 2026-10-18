@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v1.1/DropsReminder-debug.apk",
+  "notes": "Auto morning wake detection, evening-only 8PM cutoff, in-app self-update"
+}
