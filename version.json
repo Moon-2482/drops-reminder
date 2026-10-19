@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v1.2/DropsReminder-debug.apk",
-  "notes": "Naya Session rok dein button - ghalti se shuru session ek tap par band karein"
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v1.3/DropsReminder-debug.apk",
+  "notes": "Update download ab nazar aata hai (progress + auto install), subah wali notification fix"
 }
