@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v1.5/DropsReminder-debug.apk",
-  "notes": "Strict chaining: agla drop sirf pichla lene ke baad; data repair included"
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v1.6/DropsReminder-debug.apk",
+  "notes": "Overdue drop ka reminder ab foran aata hai — koi khamosh miss nahi"
 }
