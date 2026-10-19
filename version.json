@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.11",
-  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v1.11/DropsReminder-debug.apk",
-  "notes": "Reminder par proper alarm sound — silent par bhi bajegi"
+  "versionCode": 13,
+  "versionName": "1.12",
+  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v1.12/DropsReminder-debug.apk",
+  "notes": "Test alarm button + built-in alarm tone"
 }
