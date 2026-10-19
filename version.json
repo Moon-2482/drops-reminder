@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.10",
-  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v1.10/DropsReminder-debug.apk",
-  "notes": "Migration hardening — 7/6/6 counts fix lag jayega"
+  "versionCode": 12,
+  "versionName": "1.11",
+  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v1.11/DropsReminder-debug.apk",
+  "notes": "Reminder par proper alarm sound — silent par bhi bajegi"
 }
