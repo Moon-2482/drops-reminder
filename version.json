@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v1.6/DropsReminder-debug.apk",
-  "notes": "Overdue drop ka reminder ab foran aata hai — koi khamosh miss nahi"
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v1.7/DropsReminder-debug.apk",
+  "notes": "Updater bulletproof: kharab file ab kabhi install nahi hogi"
 }
