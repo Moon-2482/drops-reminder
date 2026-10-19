@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.13",
-  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v1.13/DropsReminder-debug.apk",
-  "notes": "No overlapping sessions + manual afternoon/evening start buttons"
+  "versionCode": 15,
+  "versionName": "2.0",
+  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v2.0/DropsReminder-debug.apk",
+  "notes": "v2.0 FINAL — fresh UI, nagging, skip, full audit"
 }
