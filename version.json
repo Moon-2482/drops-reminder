@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v1.4/DropsReminder-debug.apk",
-  "notes": "YES/NO sirf due drop par kaam karega; History me sirf ho chuke drops"
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v1.5/DropsReminder-debug.apk",
+  "notes": "Strict chaining: agla drop sirf pichla lene ke baad; data repair included"
 }
