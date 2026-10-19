@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v1.3/DropsReminder-debug.apk",
-  "notes": "Update download ab nazar aata hai (progress + auto install), subah wali notification fix"
+  "versionCode": 5,
+  "versionName": "1.4",
+  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v1.4/DropsReminder-debug.apk",
+  "notes": "YES/NO sirf due drop par kaam karega; History me sirf ho chuke drops"
 }
