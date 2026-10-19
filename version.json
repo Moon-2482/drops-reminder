@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v1.7/DropsReminder-debug.apk",
-  "notes": "Updater bulletproof: kharab file ab kabhi install nahi hogi"
+  "versionCode": 9,
+  "versionName": "1.8",
+  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v1.8/DropsReminder-debug.apk",
+  "notes": "Special drop ab #6 par, sirf morning me"
 }
