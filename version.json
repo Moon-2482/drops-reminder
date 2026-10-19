@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v1.9/DropsReminder-debug.apk",
-  "notes": "Sahi counts: morning 7 (special #6), afternoon 6, evening 6"
+  "versionCode": 11,
+  "versionName": "1.10",
+  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v1.10/DropsReminder-debug.apk",
+  "notes": "Migration hardening — 7/6/6 counts fix lag jayega"
 }
