@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "2.0",
-  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v2.0/DropsReminder-debug.apk",
-  "notes": "v2.0 FINAL — fresh UI, nagging, skip, full audit"
+  "versionCode": 16,
+  "versionName": "2.1",
+  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v2.1/DropsReminder-debug.apk",
+  "notes": "v2.1 — real alarm sound + sound picker"
 }
