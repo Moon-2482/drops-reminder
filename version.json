@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "2.5",
-  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v2.5/DropsReminder-debug.apk",
-  "notes": "v2.5 — morning wake-detection fix"
+  "versionCode": 21,
+  "versionName": "2.6",
+  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v2.6/DropsReminder-debug.apk",
+  "notes": "v2.6 — vibrate mode = vibration only"
 }
