@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "2.4",
-  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v2.4/DropsReminder-debug.apk",
-  "notes": "v2.4 — snooze-expiry alarm fix (watchdog)"
+  "versionCode": 20,
+  "versionName": "2.5",
+  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v2.5/DropsReminder-debug.apk",
+  "notes": "v2.5 — morning wake-detection fix"
 }
