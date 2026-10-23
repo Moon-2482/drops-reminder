@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "2.7",
-  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v2.7/DropsReminder-debug.apk",
-  "notes": "v2.7 — volume/power button silences the ring"
+  "versionCode": 23,
+  "versionName": "2.8",
+  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v2.8/DropsReminder-debug.apk",
+  "notes": "v2.8 — background ring failure fix"
 }
