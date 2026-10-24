@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "2.8",
-  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v2.8/DropsReminder-debug.apk",
-  "notes": "v2.8 — background ring failure fix"
+  "versionCode": 24,
+  "versionName": "2.9",
+  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v2.9/DropsReminder-debug.apk",
+  "notes": "v2.9 — snooze expiry full ring fix"
 }
