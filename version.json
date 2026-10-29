@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "2.10",
-  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v2.10/DropsReminder-debug.apk",
-  "notes": "v2.10 — call ke dauran alarm suppression"
+  "versionCode": 26,
+  "versionName": "2.11",
+  "apkUrl": "https://github.com/Moon-2482/drops-reminder/releases/download/v2.11/DropsReminder-debug.apk",
+  "notes": "v2.11 — session time setting fix"
 }
